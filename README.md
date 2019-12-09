@@ -1,4 +1,4 @@
-# Hussam Busfar's Capstone - Hotel reviews: Using NLP to predict star rating from reviews  
+# Hotel reviews: Using NLP to predict star rating from reviews  
 
 
 
